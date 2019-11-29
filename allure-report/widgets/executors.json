@@ -1,0 +1,10 @@
+[ {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "url" : "http://localhost:9191/",
+  "buildOrder" : 6,
+  "buildName" : "productsToMagento #6",
+  "buildUrl" : "http://localhost:9191/job/SeleniumPythonHomePageTest/6/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "http://localhost:9191/job/SeleniumPythonHomePageTest/6/allure"
+} ]

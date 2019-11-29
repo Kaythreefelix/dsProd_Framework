@@ -1,0 +1,9 @@
+[ {
+  "buildOrder" : 6,
+  "reportUrl" : "http://localhost:9191/job/SeleniumPythonHomePageTest/6/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 0,
+    "retry" : 0
+  }
+} ]
